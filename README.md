@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeerthiAmulyaMadireddy
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning various DevOps tools and Cloud Platforms
+- 👀 I’m interested in Data Science, AI/ML
+- 🌱 I’m currently exploring LLM's and Agentic AI
 - 💞️ I’m looking to collaborate on Hands-on open-source projects 
 - 📫 You can reach out to me in linkedIn
   https://www.linkedin.com/in/keerthi-amulya/
